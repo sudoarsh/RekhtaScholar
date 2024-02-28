@@ -11,7 +11,6 @@ Open Chrome and navigate to chrome://extensions.
 Enable "Developer mode" in the top-right corner.
 Click on "Load unpacked" and select the folder containing the extension files.
 Usage
-Navigate to a book detail page on the Rekhta website (https://www.rekhta.org/ebooks/detail/).
 Click the Site Extension icon in your Chrome toolbar.
 Input the book information:
 Title
@@ -34,6 +33,6 @@ Support for additional citation styles
 Direct integration with bibliography management tools (Zotero, Mendeley, etc.)
 Option to extract book information partially from the Rekhta page
 License
-[Specify your chosen license, such as MIT or GPL]
+MIT
 
 Let me know if you want specific sections added or have details about your extension's  features to include!
