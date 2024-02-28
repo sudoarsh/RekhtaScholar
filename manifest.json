@@ -1,23 +1,28 @@
 {
     "manifest_version": 3,
-    "name": "My Rekhta Citation Extension",
-    "description": "Generates citations for Rekhta book pages",
+    "name": "Site",
+    "description": "Site aids in the generation of book citations. It takes user-provided book details (such as title, author, publisher, publication year) and generates formatted citations in MLA and other academic styles.  The extension aims to streamline the citation process for students, researchers, and writers.",
     "version": "1.0.0",
-
+  
     "content_scripts": [
         {
-            "matches": ["https://www.rekhta.org/ebooks/detail/*"],
             "js": ["content.js"]
         }
     ],
-
+  
     "permissions": [
         "activeTab",
         "tabs",
         "clipboardWrite" 
     ],
-
+  
     "action": { 
-        "default_popup": "popup.html" 
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon16.png", 
+            "32": "icon32.png",
+            "48": "icon48.png"
+        }
     } 
 }
+
