@@ -30,8 +30,7 @@ HTML
 CSS (potentially Material Design Lite)
 Future Development Ideas
 Support for additional citation styles
-Direct integration with bibliography management tools (Zotero, Mendeley, etc.)
-Option to extract book information partially from the Rekhta page
+Option to extract book information directly from Active Tab.
 License
 MIT
 
