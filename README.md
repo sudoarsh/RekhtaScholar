@@ -1,5 +1,5 @@
 Site
-A Chrome extension to generate accurate citations for books on the Rekhta website, in MLA and other popular academic formats.
+A Chrome extension to generate accurate citations for books, in MLA and other popular academic formats.
 
 Features
 Generates citations in MLA, APA, Chicago, and potentially other styles
